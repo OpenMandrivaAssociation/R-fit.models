@@ -37,10 +37,8 @@ rm -f %{buildroot}%{rlibdir}/R.css
 
 %files
 %dir %{rlibdir}/%{packname}
-%doc %{rlibdir}/%{packname}/doc
 %doc %{rlibdir}/%{packname}/html
 %doc %{rlibdir}/%{packname}/DESCRIPTION
-%doc %{rlibdir}/%{packname}/NEWS
 %{rlibdir}/%{packname}/INDEX
 %{rlibdir}/%{packname}/NAMESPACE
 %{rlibdir}/%{packname}/Meta
