@@ -7,7 +7,7 @@ Release:          1
 Summary:          fit.models
 Group:            Sciences/Mathematics
 License:          GPLv1+
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_0.5-10.tar.gz
 BuildArch:        noarch
 Requires:         R-core
